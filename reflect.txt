@@ -1,0 +1,23 @@
+/************************************************************************
+*                        Final Project Reflection
+* Name       : Manav Alpeshbhai Zadafiya
+* Email      : mazadafiya@myseneca.ca
+* Student ID : 144095221
+* Date       : 2024-04-06
+* Authentication Declaration:
+* I declare that this submission is the result of my own work and I only
+* copied the code that my professor provided to complete my workshops and 
+* assignments. This submitted piece of work has not been shared with any 
+* other student or 3rd party content provider.
+************************************************************************/
+Throughout this course, I have gained a comprehensive understanding of C++ and its advance concepts, enabling me to tackle complex programming challenges. The course began with an introduction to C++ fundamentals from OOP244, including compilation and execution processes.
+
+As I progressed through the course, I learned about various types in C++, including fundamental types, pointers, references, and arrays. This knowledge proved essential in handling memory and data efficiently. Additionally, exploring class relationships, such as inheritance and polymorphism, broadened my understanding of object-oriented design principles.
+
+The course extensively covered processing techniques, including expressions, functions, and error handling, which are crucial for developing robust and reliable software. Furthermore, the study of the Standard Template Library (STL) provided insights into utilizing pre-built data structures and algorithms effectively.
+
+Exploring memory management concepts, such as raw and smart pointers, enhanced my understanding of resource allocation and deallocation strategies. Additionally, discussions on multithreading and performance optimization equipped me with the skills to develop efficient and scalable applications.
+
+Delving into deeper details of C++, including pre-processor directives, multiple inheritance, and linked list technology, expanded my knowledge and challenged me to explore advanced programming concepts.
+
+Lastly, the Final Project provided a comprehensive overview of C++ programming, covering a wide range of topics essential for building complex software systems. The structured approach and hands-on weekly Workshops enabled me to apply theoretical concepts to practical scenarios effectively. I would like to extend special thanks to my professor Asam Gulaid for his guidance, though quizzes and support throughout the course. His expertise and dedication played a pivotal role in facilitating learning journey and fostering a deeper understanding of advanced object-oriented programming concepts.
